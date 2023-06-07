@@ -15,12 +15,16 @@
   </tbody>
 </table>
 
-  ### Github Analytics
-<a href="https://github.com/TingSyuanWang">
+<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=eddie5423&style=flat-square&&label=Profile+Views&color=50A1FF">
+
+---
+
+### Github Analytics
+<a href="https://github.com/eddie5423">
   <img src="https://github-readme-stats.vercel.app/api?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
-<a href="https://github.com/TingSyuanWang">
+<a href="https://github.com/eddie5423">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
