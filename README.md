@@ -26,5 +26,5 @@
 
 ### Most Used Languages
 <a href="https://github.com/eddie5423">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddie5423&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
